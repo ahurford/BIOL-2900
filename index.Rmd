@@ -1,0 +1,12 @@
+--- 
+title:  "BIOL 2900 - Principles of Evolution and Systematics"
+author: "Youlian Tzenov, Johanna Bosch, Amy Hurford "
+date: "`r Sys.Date()`"
+site: bookdown::gitbook
+documentclass: book
+github-repo: jlb686/BIOL2900
+---
+
+# Getting Started with R
+Please refer to the quantitative guide if you are new to using R: https://ahurford.github.io/quant-guide-all-courses/index.html
+The quant guide will also provide you with useful tips and tutorials for a lot of the labs, and will be useful to have open while you are working through these assignments. 
